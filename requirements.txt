@@ -1,0 +1,7 @@
+numpy>=1.20
+scipy
+scikit-image
+scikit-learn
+opencv-python>=4.4
+matplotlib
+pytest
